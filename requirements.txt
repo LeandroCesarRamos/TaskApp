@@ -1,0 +1,5 @@
+# Este projeto usa apenas bibliotecas padrão do Python
+# tkinter - Interface gráfica (incluído no Python)
+
+# Para criar executável:
+# pyinstaller>=6.0.0
