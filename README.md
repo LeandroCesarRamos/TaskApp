@@ -25,6 +25,13 @@ Um aplicativo de gerenciamento de tarefas moderno e intuitivo desenvolvido em Py
   - `Ctrl+A`: Selecionar todo o texto do campo
   - `Tab`: Navegar entre os campos e botões
 
+  ## ℹ️ Sobre os ícones/emojis
+
+Os ícones como 🔧, 📋, ✅, etc., usados neste README, são emojis Unicode. Você pode inseri-los:
+- Copiando e colando de sites como [emojipedia.org](https://emojipedia.org/)
+- Usando atalhos do teclado (no Windows: `Win + .` para abrir o painel de emojis)
+- Ou digitando diretamente se seu editor suportar emojis
+
 ## 🖼️ Screenshots
 
 ### Interface Principal
@@ -109,7 +116,7 @@ pyinstaller --onefile --windowed --name main.py
 ## 🤝 Contribuições
 
 
-## ♿ Acessibilidade
+## ⌨️ Atalhos do Teclado
 
 O aplicativo permite navegação completa por teclado (Tab, Enter nos botões, atalhos para ações rápidas), tornando-o mais acessível para todos os usuários.
 
